@@ -1,4 +1,4 @@
-uses crt, tetris_figures;
+uses crt, petris_figures;
 {$I-}
 const
     {size of playing field} 

@@ -1,4 +1,4 @@
-unit tetris_figures;
+unit petris_figures;
 
 interface
 uses crt;
